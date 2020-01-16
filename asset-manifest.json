@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.1374b118.chunk.css",
-    "main.js": "/static/js/main.7e073c2b.chunk.js",
-    "main.js.map": "/static/js/main.7e073c2b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e0339229.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e0339229.js.map",
-    "static/css/2.c0f5ac91.chunk.css": "/static/css/2.c0f5ac91.chunk.css",
-    "static/js/2.a76aa947.chunk.js": "/static/js/2.a76aa947.chunk.js",
-    "static/js/2.a76aa947.chunk.js.map": "/static/js/2.a76aa947.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ecce8912c2cbd49c1d1ec7ea51b0dd6e.js": "/precache-manifest.ecce8912c2cbd49c1d1ec7ea51b0dd6e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.c0f5ac91.chunk.css.map": "/static/css/2.c0f5ac91.chunk.css.map",
-    "static/css/main.1374b118.chunk.css.map": "/static/css/main.1374b118.chunk.css.map",
-    "static/js/2.a76aa947.chunk.js.LICENSE": "/static/js/2.a76aa947.chunk.js.LICENSE",
-    "static/media/logo.svg": "/static/media/logo.ee7cd8ed.svg"
+    "main.css": "/writer-app/static/css/main.1374b118.chunk.css",
+    "main.js": "/writer-app/static/js/main.b829d08b.chunk.js",
+    "main.js.map": "/writer-app/static/js/main.b829d08b.chunk.js.map",
+    "runtime-main.js": "/writer-app/static/js/runtime-main.6139261f.js",
+    "runtime-main.js.map": "/writer-app/static/js/runtime-main.6139261f.js.map",
+    "static/css/2.c0f5ac91.chunk.css": "/writer-app/static/css/2.c0f5ac91.chunk.css",
+    "static/js/2.2cc56fc3.chunk.js": "/writer-app/static/js/2.2cc56fc3.chunk.js",
+    "static/js/2.2cc56fc3.chunk.js.map": "/writer-app/static/js/2.2cc56fc3.chunk.js.map",
+    "index.html": "/writer-app/index.html",
+    "precache-manifest.869a30c7ab656d662d61785be20b2b6f.js": "/writer-app/precache-manifest.869a30c7ab656d662d61785be20b2b6f.js",
+    "service-worker.js": "/writer-app/service-worker.js",
+    "static/css/2.c0f5ac91.chunk.css.map": "/writer-app/static/css/2.c0f5ac91.chunk.css.map",
+    "static/css/main.1374b118.chunk.css.map": "/writer-app/static/css/main.1374b118.chunk.css.map",
+    "static/js/2.2cc56fc3.chunk.js.LICENSE": "/writer-app/static/js/2.2cc56fc3.chunk.js.LICENSE",
+    "static/media/logo.svg": "/writer-app/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e0339229.js",
+    "static/js/runtime-main.6139261f.js",
     "static/css/2.c0f5ac91.chunk.css",
-    "static/js/2.a76aa947.chunk.js",
+    "static/js/2.2cc56fc3.chunk.js",
     "static/css/main.1374b118.chunk.css",
-    "static/js/main.7e073c2b.chunk.js"
+    "static/js/main.b829d08b.chunk.js"
   ]
 }
